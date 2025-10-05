@@ -1,4 +1,8 @@
 # Система Аутентификации и Авторизации
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.98.0-green.svg)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15+-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)
 
 Проект реализует собственную систему аутентификации и авторизации с гибкой системой управления правами доступа.
 
