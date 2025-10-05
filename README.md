@@ -97,7 +97,7 @@ Products (Продукты)
 ### 1. Клонирование и настройка
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/qXstay/auth-system
 cd auth_system
 python -m venv auth_system_env
 
